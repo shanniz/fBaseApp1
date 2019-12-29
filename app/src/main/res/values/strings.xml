@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">fBaseApp1</string>
+    <string name="add_task_button">Add Task</string>
+</resources>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "875910503226",
+    "firebase_url": "https://demoapp1-64905.firebaseio.com",
+    "project_id": "demoapp1-64905",
+    "storage_bucket": "demoapp1-64905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875910503226:android:a6e73697eb8766d2c58e03",
+        "android_client_info": {
+          "package_name": "com.example.shan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875910503226-kcfmjjmcskep96u4nbnkuo4naqampd5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBikvvLiZ1HBFP5pDyxSHjZSIUKScAmBmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875910503226-kcfmjjmcskep96u4nbnkuo4naqampd5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875910503226:android:d598fea60eeab3f6c58e03",
+        "android_client_info": {
+          "package_name": "com.example.shan.fbaseapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875910503226-kcfmjjmcskep96u4nbnkuo4naqampd5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBikvvLiZ1HBFP5pDyxSHjZSIUKScAmBmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875910503226-kcfmjjmcskep96u4nbnkuo4naqampd5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875910503226:android:f34c76e1b4734664c58e03",
+        "android_client_info": {
+          "package_name": "com.example.shan.firebasedemoapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875910503226-kcfmjjmcskep96u4nbnkuo4naqampd5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBikvvLiZ1HBFP5pDyxSHjZSIUKScAmBmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875910503226-kcfmjjmcskep96u4nbnkuo4naqampd5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
